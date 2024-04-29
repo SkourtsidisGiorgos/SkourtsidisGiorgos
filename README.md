@@ -4,7 +4,7 @@
 ## 🚀 About Me
 I'm a Big Data/Software Engineer currently diving deep into carbon-aware scheduling for [JobRunr](https://github.com/jobrunr/jobrunr). I've been actively involved in various projects across the telecommunications industry, focusing on enhancing data processing and operational efficiency.
 
-- 🔭 I'm currently working at [**MindWave**](https://www.mindwave.com/), where I implement carbon-aware scheduling in [**JobRunR**](https://github.com/jobrunr/jobrunr), enhancing energy efficiency.
+- 🔭 I'm currently working at [**MindWave**](https://www.mindwave.com/), where I implement carbon-aware scheduling for [**JobRunR**](https://github.com/jobrunr/jobrunr), enhancing energy efficiency.
 - 👯 I'm keen to collaborate on **open-source projects** (contributed on [**JobRunR**](https://github.com/jobrunr/jobrunr) and [CommanDeft](https://github.com/Ferrum-Citadel/commandeft)).
 - 📫 You can reach me at: [giorgosskourtsidis@gmail.com](mailto:gskourts@gmail.com)
 
