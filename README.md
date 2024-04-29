@@ -15,7 +15,6 @@ I'm a Big Data/Software Engineer currently diving deep into carbon-aware schedul
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
 
 
-
 ## 🎓 Education
 **Integrated Master of Electrical and Computer Engineering (MEng ECE)** \
 National Technical University of Athens (NTUA), 2014 - 2023 \
