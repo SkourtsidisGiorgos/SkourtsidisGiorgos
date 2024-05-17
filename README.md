@@ -2,9 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SkourtsidisGiorgos&label=Profile%20views&color=0e75b6&style=flat" alt="giorgos-skourtsidis" /> </p>
 
 ## 🚀 About Me
-I'm a Big Data/Software Engineer currently diving deep into carbon-aware scheduling for [JobRunr](https://github.com/jobrunr/jobrunr). I've been actively involved in various projects across the telecommunications industry, focusing on enhancing data processing and operational efficiency.
+I'm a Big Data/Software Engineer currently diving deep into [carbon-aware scheduling](https://www.jobrunr.io/en/blog/2024-03-21-carbon-aware-job-scheduling/) for [JobRunr](https://github.com/jobrunr/jobrunr). I've been actively involved in various projects across the telecommunications industry, focusing on enhancing data processing and operational efficiency.
 
-- 🔭 I'm currently working as a contractor at [**Swift**](https://www.swift.com/)  through [**MindWave**](https://www.mindwave.com/), where I implement carbon-aware scheduling for [**JobRunR**](https://github.com/jobrunr/jobrunr), enhancing energy efficiency.
+- 🔭 I'm currently working as a contractor at [**Swift**](https://www.swift.com/)  through [**MindWave**](https://www.mindwave.com/).
 - 👯 I'm keen to collaborate on **open-source projects** (contributed on [**JobRunR**](https://github.com/jobrunr/jobrunr) and [CommanDeft](https://github.com/Ferrum-Citadel/commandeft)).
 - 📫 You can reach me at: [gskourts@gmail.com](mailto:gskourts@gmail.com)
 
